@@ -7,7 +7,7 @@ Este programa permite ingresar nombres y calificaciones de estudiantes, calcular
 
 ## Instalación
 
-1. Clona este repositorio:
+1. Instalar Requerimientos:
    ```bash
-   git clone https://github.com/tu_usuario/estudiantes-proyecto.git
-   cd estudiantes-proyecto
+   install -r requerimientos.txt
+   
